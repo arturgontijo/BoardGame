@@ -1,0 +1,7 @@
+.board input{
+	background-color: black;
+	margin: 0px;
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+}
